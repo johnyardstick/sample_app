@@ -47,6 +47,8 @@ rbenv install 2.4.0
 rbenv global 2.4.0
 gem install bundler
 rbenv rehash
+gem install rails
+sudo apt-get install postgresql
 
 # cleanup
 sudo apt-get clean
