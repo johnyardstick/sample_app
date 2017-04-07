@@ -22,3 +22,6 @@
 
 # Vagrant
 /.vagrant
+
+# Ignore uploaded test images.
+/public/uploads
